@@ -2,3 +2,4 @@
 /target/
 /javaconcurrent.iml
 /.DS_Store
+*.json
