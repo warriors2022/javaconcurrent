@@ -1,5 +1,4 @@
 /.idea/
 /target/
 /javaconcurrent.iml
-.DS_Store
-*.json
+/.DS_Store
