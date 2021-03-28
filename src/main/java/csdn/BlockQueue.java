@@ -11,6 +11,6 @@ public class BlockQueue {
     public static void main(String[] args) {
         ArrayBlockingQueue<Object> objects = new ArrayBlockingQueue<>(20);
         ArrayBlockingQueue<Object> blockingQueue = new ArrayBlockingQueue<>(20);
-
+        System.out.println("aa");
     }
 }
