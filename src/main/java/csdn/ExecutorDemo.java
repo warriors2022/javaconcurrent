@@ -7,4 +7,7 @@ package csdn;
  * 线程池举例
  */
 public class ExecutorDemo {
+    public static void main(String[] args) {
+
+    }
 }
