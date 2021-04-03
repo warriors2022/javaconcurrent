@@ -25,4 +25,7 @@ public class ExecutorDemo {
 }
 class Aa {
 
+    public void test03() {
+        new ExecutorDemo().test02();
+    }
 }
