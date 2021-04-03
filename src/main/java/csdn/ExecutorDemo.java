@@ -15,6 +15,10 @@ public class ExecutorDemo {
         System.out.println("cc");
     }
 
+    public void test05() {
+
+    }
+
     public void test01() {
 
     }
