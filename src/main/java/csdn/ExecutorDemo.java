@@ -18,10 +18,6 @@ public class ExecutorDemo {
     public void test01() {
 
     }
-
-    public void test02() {
-        test01();
-    }
 }
 class Aa {
 
