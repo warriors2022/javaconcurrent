@@ -14,6 +14,10 @@ public class ExecutorDemo {
         System.out.println("bb");
         System.out.println("cc");
     }
+
+    public void test01() {
+
+    }
 }
 class Aa {
 
