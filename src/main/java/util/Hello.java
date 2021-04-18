@@ -10,7 +10,7 @@ import lombok.Data;
 @Data
 public class Hello {
 
-    public volatile String str = "haha";
+    public volatile String str = "haha2";
 
     private volatile int id;
 
