@@ -1,5 +1,7 @@
 package csdn;
 
+import javax.swing.plaf.basic.BasicArrowButton;
+
 /**
  * @author yw
  * @version 1.0
@@ -7,4 +9,28 @@ package csdn;
  * 线程池举例
  */
 public class ExecutorDemo {
+    public static void main(String[] args) {
+        System.out.println("aa");
+        System.out.println("bb");
+        System.out.println("cc");
+        System.out.println("bb");
+    }
+
+    public void test05() {
+
+    }
+
+    public void test01() {
+
+    }
+
+    public void test02() {
+        test01();
+    }
+}
+class Aa {
+
+    public void test03() {
+        new ExecutorDemo().test02();
+    }
 }
